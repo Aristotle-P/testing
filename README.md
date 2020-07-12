@@ -2,45 +2,9 @@
 
 ---
 
-### <a name="Description"></a> Description
-
-Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.
-
 ### Table of Contents
 
-Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
-
-Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.
-
-## (#Description)
-
 ---
-
-## Technologies Used(#Technologies Used)
 
 ## [Usage]
 
@@ -49,6 +13,30 @@ Besides displaying the appropriate data from those JSON objects, this applicatio
 ## [Questions]
 
 ### <a name="Technologies Used"></a> Technologies Used
+
+### <a name="Description"></a> Description
+
+---
+
+## (#Description)
+
+Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.Weather Dashboard is a simple application utilizing several API calls from [openweathermap.org](openweathermap.org) to provide the user several forecasts based on the city searched for. The three APIs utilized retrieve a forecast for the current weather, a five-day forecast, and the UV index for the city searched for.
+
+Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.
+
+## Technologies Used(#Technologies Used)
 
 This project utilized HTML, CSS, and Javascript langauges and ajax call functions to retrieve the appropriate information from the API, while also parsing the JSON object returned to it.
 
