@@ -12,7 +12,7 @@
 
 ## [Questions]
 
-### <a name="TechnologiesUsed"></a> Technologies Used
+[Technologies Used](#TechnologiesUsed)
 
 [Description](#Description)
 
@@ -36,7 +36,7 @@ Besides displaying the appropriate data from those JSON objects, this applicatio
 
 Besides displaying the appropriate data from those JSON objects, this application also displays images based on the forecast for that city. It also creates a search history within local storage to allow the user to convienently view cities they had already searched for.
 
-[Technologies Used](#TechnologiesUsed)
+### <a name="TechnologiesUsed"></a> Technologies Used
 
 This project utilized HTML, CSS, and Javascript langauges and ajax call functions to retrieve the appropriate information from the API, while also parsing the JSON object returned to it.
 
